@@ -22,10 +22,12 @@ tar xzf Python-3.12.0.tgz
 cd Python-3.12.0
 sudo ./configure --enable-optimizations 
 sudo make altinstall        //compile
+```
 
 ## Step 4 – Verify Python Installation
+```
 python3 -V
-
-Or Run the install-python3.12 bash script
+```
+** Or Run the install-python3.12 bash script **
 
 ## Note: Before running the script make the file as LF
