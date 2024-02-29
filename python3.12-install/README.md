@@ -28,6 +28,6 @@ sudo make altinstall        //compile
 ```
 python3 -V
 ```
-** Or Run the install-python3.12 bash script **
+## Or Run the install-python3.12 bash script
 
 ## Note: Before running the script make the file as LF
